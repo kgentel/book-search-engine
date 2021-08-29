@@ -4,6 +4,4 @@ In this application the user can sign up and login/logout to their account to se
 
 Git hub: https://github.com/kgentel/book-search-engine
 
-Deployed link: https://blooming-plateau-66701.herokuapp.com/
-
-help
+Deployed link: https://hidden-brook-73374.herokuapp.com/
